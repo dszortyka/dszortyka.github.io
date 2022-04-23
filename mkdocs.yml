@@ -1,4 +1,24 @@
-site_name: My Docs
+site_name: Daniel Szortyka
+site_url: https://dszortyka.github.io
+use_directory_urls: true
+strict: false
 
+# Repository Info
+repo_name: dszortyka.github.io
+repo_url: https://github.com/dszortyka/dszortyka.github.io
+edit_uri: edit/master/docs
+
+
+google_analytics: ['G-PY3KTHSJCE', 'dszortyka.github.io']
+
+# Theme Config
 theme:
   name: material
+
+markdown_extensions:
+  - attr_list
+
+nav:
+  - Home: 'index.md'
+  - 'Tech Blog': 
+    - 'How to setup GitHub Pages': 'Tech Blog/getting-started-github-pages.md'
