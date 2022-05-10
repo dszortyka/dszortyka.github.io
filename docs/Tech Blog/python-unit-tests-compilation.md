@@ -37,6 +37,10 @@ Basic Class implementation detailing the steps to mock a module, a class and its
 
 Moving forward with the previous link and examples, Caktus Group also provided a second part implementation for Unit Tests, showing how to control object behavior.
 
+[Python Unittest Examples: Mocking and Patching](https://queirozf.com/entries/python-unittest-examples-mocking-and-patching){:target="_blank"}
+
+Provides a range of examples for several test operations.
+
 ## Gists
 [Mock Methods and Examples](https://gist.github.com/Sklavit/d81055d731dbe551466bfcc5f5440475){:target="_blank"}
 
