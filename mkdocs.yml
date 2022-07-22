@@ -9,11 +9,13 @@ repo_url: https://github.com/dszortyka/dszortyka.github.io
 edit_uri: edit/master/docs
 
 
-google_analytics: ['G-PY3KTHSJCE', 'dszortyka.github.io']
+#theme.analytics.gtag: 
 
 # Theme Config
 theme:
   name: material
+  analytics:
+    gtag: 'G-PY3KTHSJCE'
 
 markdown_extensions:
   - attr_list
