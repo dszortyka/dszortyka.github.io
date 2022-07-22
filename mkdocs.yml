@@ -25,3 +25,9 @@ nav:
   - 'Tech Blog': 
     - 'How to setup GitHub Pages': 'Tech Blog/getting-started-github-pages.md'
     - 'Python Unit Tests Compilation': 'Tech Blog/python-unit-tests-compilation.md'
+
+
+extra:
+  analytics:
+    provider: google
+    property: G-PY3KTHSJCE
