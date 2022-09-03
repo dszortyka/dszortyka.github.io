@@ -23,8 +23,11 @@ markdown_extensions:
 nav:
   - Home: 'index.md'
   - 'Tech Blog': 
+    - 'Kubernetes - Redis monitoring with Prometheus and Grafana': 'Tech Blog/k8s-prometheus-grafana-redis-monitoring.md'
+    - 'How to setup a Basic DNS Server with Debian and Bind': 'Tech Blog/basic-dns-setup-on-debian.md'
     - 'How to setup GitHub Pages': 'Tech Blog/getting-started-github-pages.md'
     - 'Python Unit Tests Compilation': 'Tech Blog/python-unit-tests-compilation.md'
+#    - 'Vulnerability Management of your Application projects': 'Tech Blog/getting-started-with-dependency-track-and-software-bill-of-materials.md'
 
 
 extra:
