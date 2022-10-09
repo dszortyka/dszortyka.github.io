@@ -28,7 +28,7 @@ nav:
     - 'How to setup GitHub Pages': 'Tech Blog/getting-started-github-pages.md'
     - 'Python Unit Tests Compilation': 'Tech Blog/python-unit-tests-compilation.md'
 #    - 'Vulnerability Management of your Application projects': 'Tech Blog/getting-started-with-dependency-track-and-software-bill-of-materials.md'
-  - 'Helm Charts': '/helm-charts/'
+  - 'Helm Charts': 'https://github.com/dszortyka/helm-charts/packages/index.yaml''
 
 extra:
   analytics:
