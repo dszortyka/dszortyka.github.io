@@ -1,0 +1,6 @@
+[submodule "helm-charts"]
+	path = helm-charts
+	url = https://github.com/dszortyka/helm-charts.git
+[submodule "docs/helm-charts"]
+	path = docs/helm-charts
+	url = https://github.com/dszortyka/helm-charts.git
